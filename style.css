@@ -1,0 +1,17 @@
+/* Comentrario em CSS 
+Seletor de elementos - linha 4 
+*/
+h1{
+    color: rgb(26, 172, 7);
+}
+/* Seletor de ID */
+#xuxu{
+    background-color: yellow;
+}
+/* Seletor de Classe */
+.estiloso{
+    border-style: solid;
+}
+p.centraliza{
+    text-align: center;
+}
